@@ -1,0 +1,1 @@
+INSERT INTO Song VALUES ('Kashmir', 'Led Zeppelin');
